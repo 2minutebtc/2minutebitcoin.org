@@ -8,13 +8,14 @@ Humans achieved that through cooperation - a single human can’t be the apex pr
 
 # Fire
 Fire was the first major technology that propelled humanity through a multitude of innovations:
-
+![fire.png](./fire.png)
 
 # Missiles
 Instead of hand-to-hand combat with bigger animals - hit them with a projectile. Never a fair fight - humans would hunt from mountains and other advantageous terrains.
 
 # Hydraulics
 Hydraulics was the third incredibly powerful technology: 
+![water.png](./water.png)
 
 Hydraulic transport was vital in enabling **economic density** and fast-growing prosperity in the cradle of civilization - the Mediterranean.
 
