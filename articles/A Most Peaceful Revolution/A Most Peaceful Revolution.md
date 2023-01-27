@@ -36,6 +36,7 @@ Going against the State requires hundreds of millions of diehards that believe i
 
 # Bitcoin Values
 **Bitcoinism** is an emergent philosophy, embodying a consistent set of many values:
+![bitcoinism.png](./bitcoinism.png)
 
 These are not *features* of Bitcoin - they are Bitcoin.
 
