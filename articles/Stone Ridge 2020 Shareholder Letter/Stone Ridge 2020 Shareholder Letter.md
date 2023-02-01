@@ -11,6 +11,7 @@ The edifice of central banking is to print money to stabilize the economy.
 
 Through unintended side effects, they cripple the wisest regulator - **the market** and therefore end up being the ultimate cause of economic problems.
 
+![central_bank.png](./CENTRAL%20BANKS%20BREAKING%20THE%20ECONOMY%20(4).png)
 
 # Big Three Bitcoin Aha-Moments
 
